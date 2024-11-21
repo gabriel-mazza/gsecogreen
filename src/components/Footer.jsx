@@ -24,7 +24,7 @@ export default function Footer() {
             <p>(00) 00000-0000</p>
           </div>
           <div className="flex justify-center">
-            <img src="./public/imagens/logo.png" alt="Logo Eletrogreen" className="h-20" />
+            <img src="./imagens/logo.png" alt="Logo Eletrogreen" className="h-20" />
           </div>
         </div>
       </div>
