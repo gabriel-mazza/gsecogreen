@@ -1,8 +1,20 @@
-# React + Vite
+RM:555410 Nome: Gabriel Barros Mazzariol
+RM:555384 Nome: Rodrigo Akira Hirota Mori
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Proposta do Projeto
 
-Currently, two official plugins are available:
+Nos criamos um site onde o usuario consegue monitorar o uso e gastos de energia que ele tem um sua casa, com várias funcionalidades para o ajudar a economizar no consumo de energia.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+Bibliotecas e Tecnologias Usadas
+
+- React
+- Vite
+- Tailwind CSS
+- React Router DOM
+- Recharts
+- React Icons
+- React Hooks
+
+Link no Vercel: https://gsecogreen-hd4l.vercel.app/
+
